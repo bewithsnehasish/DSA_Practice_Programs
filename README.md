@@ -60,5 +60,5 @@ Welcome to my personal Data Structures and Algorithms (DSA) repository! This col
 3. Happy coding and algorithm solving!
 
 <p align="center">
-  <img src="DSA.png" alt="Another Logo" style="border-radius: 10px;">
+  <img src="https://iili.io/Jcidq3F.md.png" alt="Another Logo" style="border-radius: 10px;">
 </p>
