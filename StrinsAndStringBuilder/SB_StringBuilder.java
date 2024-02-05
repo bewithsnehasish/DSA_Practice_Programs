@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 
 public class SB_StringBuilder {
     public static void main(String[] args) {
