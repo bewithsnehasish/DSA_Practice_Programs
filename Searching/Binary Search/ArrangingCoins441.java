@@ -13,7 +13,7 @@
 //
 //
 //Input: n = 5
-//Output: 2
+//Output: 2S
 //Explanation: Because the 3rd row is incomplete, we return 2.
 //Example 2:
 //
