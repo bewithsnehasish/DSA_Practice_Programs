@@ -15,3 +15,4 @@ public class KadaneAlgorrithmsMaximumSubarray53 {
         return max ;
     }
 }
+
