@@ -20,8 +20,8 @@
 /**/
 /**/
 /**/
-/* Refer to the sample output for formatting specifications. */
-/**/
+
+
 /* Code constraints : */
 /**/
 /* In this scenario, the test cases fall under the following constraints: */
